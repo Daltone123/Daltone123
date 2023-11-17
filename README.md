@@ -1,5 +1,5 @@
 # 💫 About Me:
-ML/AI Enthusiast<br>ALX_SE Student<br>Tech community lead
+ML/AI Enthusiast<br>ALX_SE Student<br>Junior Software Developer<br>Tech community lead
 
 
 ## 🌐 Socials:
